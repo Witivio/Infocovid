@@ -1,5 +1,5 @@
 # Info COVID19
-Witivio, leader français du chatbot 🤖 d'entreprise à destination des employées, c’est mobilisé depuis début mars 2020 en lançant une application dédiée, InfoCOVID19 sur le store Microsoft Teams.
+Witivio, leader français du chatbot 🤖 d'entreprise à destination des employées, s’est mobilisé depuis début mars 2020 en lançant une application dédiée, InfoCOVID19 sur le store Microsoft Teams.
 
 Dans la continuité de son engagement et en réponse à l’appel de la French Tech 🐔 et du gouvernement Français, l’équipe R&D a développé un chatbot d’orientation et d’autodiagnostic Covid-19 en partenariat avec le Ministère des Solidarités et de la Santé.
 
